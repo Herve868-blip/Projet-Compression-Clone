@@ -1,0 +1,13 @@
+Categorie,Fichier,Outil,Taille Initiale,Taille Compressee,Gain Espace (%),Ratio (%),Temps Comp (s),Vitesse Comp (MB/s),Temps Decomp (s),Integrite Verifiee
+texte,test_data\texte_source.txt,bzip2,2.02 MB,31.75 KB,98.46,1.54,0.2522,7.99,0.0328,True
+texte,test_data\texte_source.txt,lzma,2.02 MB,9.88 KB,99.52,0.48,0.0758,26.6,0.0064,True
+texte,test_data\texte_source.txt,7-zip,2.02 MB,9.97 KB,99.52,0.48,0.0722,27.91,0.012,True
+audio,test_data\audio_source.wav,bzip2,1.35 MB,480.82 KB,65.11,34.89,0.6653,2.02,0.0798,True
+audio,test_data\audio_source.wav,lzma,1.35 MB,96.42 KB,93.0,7.0,0.1077,12.5,0.0116,True
+audio,test_data\audio_source.wav,7-zip,1.35 MB,96.33 KB,93.01,6.99,0.1175,11.46,0.0161,True
+image,test_data\image_source.bmp,bzip2,2.25 MB,238.51 KB,89.65,10.35,0.1403,16.04,0.0367,True
+image,test_data\image_source.bmp,lzma,2.25 MB,63.12 KB,97.26,2.74,0.4207,5.35,0.0161,True
+image,test_data\image_source.bmp,7-zip,2.25 MB,67.21 KB,97.08,2.92,0.4344,5.18,0.0235,True
+video,test_data\video_source.raw,bzip2,8.79 MB,305.11 KB,96.61,3.39,2.4911,3.53,0.1221,True
+video,test_data\video_source.raw,lzma,8.79 MB,14.73 KB,99.84,0.16,0.3418,25.71,0.0219,True
+video,test_data\video_source.raw,7-zip,8.79 MB,14.32 KB,99.84,0.16,0.3439,25.56,0.0352,True

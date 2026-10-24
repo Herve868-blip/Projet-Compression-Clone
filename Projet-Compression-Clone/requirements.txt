@@ -1,0 +1,7 @@
+﻿py7zr>=1.1.4
+reportlab>=5.1.0
+pymupdf>=1.28.2
+matplotlib>=3.10.0
+pillow>=11.1.0
+rich>=13.9.4
+customtkinter>=5.2.2
